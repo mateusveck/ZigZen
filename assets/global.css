@@ -19,6 +19,7 @@ img {
 
 :root {
   --font-family: "Inter", sans-serif;
+  --font-family-paytone:"Paytone One", sans-serif;
 
   /* Desktop */
   --h1: 800 4rem/120% var(--font-family);        /* 64px */

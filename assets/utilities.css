@@ -51,7 +51,19 @@
   color: var(--text-color-secondary);
 }
 
+.brand-color-primary{
+    color: var( --brand-color-primary);
+}
 /* Border */
 .border-stroke {
   border-color: var(--stroke-color);
+}
+
+.font-family{
+    font-family: var(  --font-family-paytone);
+}
+
+.container {
+    width: min(100% - 2rem, 80rem);
+    margin-inline: auto;
 }
